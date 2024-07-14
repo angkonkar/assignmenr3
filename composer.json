@@ -1,0 +1,15 @@
+{
+    "name": "angkon/assignment3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angkon Kar",
+            "email": "angkon03@gmail.com"
+        }
+    ],
+    "require": {}
+}
